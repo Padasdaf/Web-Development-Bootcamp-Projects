@@ -1,20 +1,2 @@
-# Run Completed Code
-
-1. Make sure dfx is running
-
-```
-dfx start --clean
-```
-
-2. Deploy the project
-```
-dfx deploy
-```
-
-3. Start NPM
-```
-npm start
-```
-
-
-
+# Decentralised Finance App
+Building a DeFi DApp that allows people to lend and borrow their tokens! This is my twenty-second web development bootcamp project!
